@@ -1,6 +1,6 @@
 # Blinkit Sales Analytics 📊📦
 
-### Dashboard Link - [Live](https://blinkitanalytics.netlify.app)
+## Dashboard Link - [Live](https://blinkitanalytics.netlify.app)
 
 ## Project Overview 🌟
 
